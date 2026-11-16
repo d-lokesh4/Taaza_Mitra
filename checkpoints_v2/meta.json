@@ -1,0 +1,180 @@
+{
+  "items": [
+    "apple",
+    "banana",
+    "bell_pepper",
+    "bitter_melon",
+    "carrot",
+    "chilli",
+    "cucumber",
+    "eggplant",
+    "mango",
+    "orange",
+    "papaya",
+    "pineapple",
+    "potato",
+    "strawberry",
+    "tomato"
+  ],
+  "item_group": {
+    "apple": "fruit",
+    "banana": "fruit",
+    "mango": "fruit",
+    "orange": "fruit",
+    "pineapple": "fruit",
+    "strawberry": "fruit",
+    "bell_pepper": "vegetable",
+    "bitter_melon": "vegetable",
+    "carrot": "vegetable",
+    "chilli": "vegetable",
+    "cucumber": "vegetable",
+    "eggplant": "vegetable",
+    "papaya": "vegetable",
+    "potato": "vegetable",
+    "tomato": "vegetable"
+  },
+  "availability": {
+    "apple": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "banana": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "unripe",
+        "ripe"
+      ]
+    },
+    "bell_pepper": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "unripe",
+        "ripe",
+        "overripe"
+      ]
+    },
+    "bitter_melon": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "carrot": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "chilli": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "ripe",
+        "overripe"
+      ]
+    },
+    "cucumber": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "eggplant": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "mango": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "unripe",
+        "ripe"
+      ]
+    },
+    "orange": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "papaya": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "pineapple": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "potato": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "strawberry": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "tomato": {
+      "freshness": [
+        "fresh",
+        "semi_fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "unripe",
+        "ripe",
+        "overripe"
+      ]
+    }
+  },
+  "backbone": "mobilenet_v3_large",
+  "days_trained": false,
+  "fresh_classes": [
+    "fresh",
+    "semi_fresh",
+    "rotten"
+  ],
+  "ripe_classes": [
+    "unripe",
+    "ripe",
+    "overripe"
+  ]
+}

@@ -1,0 +1,601 @@
+file,item,group,freshness,ripeness,source,notes,group_id,split
+Semi_Fresh_Vegetables/Eggplant/IMG_20251125_212053648_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251125_212053648_hdr,train
+Fresh Fruits/Pineapple/IMG_20251115_122155696_HDR_AE.jpg,pineapple,fruit,fresh,,own,,pineapple/img_20251115_122155696_hdr_ae,train
+Fresh Vegetables/Bittermelon/aug_71_IMG_20260114_010559.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260114_010559,train
+Fresh Vegetables/Chile/IMG_20220602_090651.jpg,chilli,vegetable,fresh,ripe,own,,chile/img_20220602_090651,train
+Rotten_Vegetables/Papaya/aug_234_IMG_20260209_011118_1.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260209_011118_1,train
+Rotten_Fruits/Orange/aug_463_IMG-20251215-WA0025.jpg,orange,fruit,rotten,,own,,orange/img-20251215-wa0025,train
+Rotten_Vegetables/Potato/rottenPotato (294).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (294),train
+Fresh Vegetables/Carrot/freshCarrot (238).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (238),train
+Unripened_Vegetables/Tomato/IMG_20220506_093244.jpg,tomato,vegetable,,unripe,own,,tomato/img_20220506_093244,train
+Unripened_Fruits/Banana/Raw_Banana.48ebbd89-ebe4-11ed-a4ab-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.48ebbd89-ebe4-11ed-a4ab-346f24e2fa38,train
+overmature_Vegetable/Chile/IMG_20220606_094715.jpg,chilli,vegetable,,overripe,own,,chile/img_20220606_094715,train
+Fresh Vegetables/Potato/freshPotato (193).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (193),train
+Semi_Fresh_Fruits/ Pineapple/aug_441_IMG_20251121_144720059_HDR_AE.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251121_144720059_hdr_ae,train
+Rotten_Vegetables/Eggplant/aug_43_IMG_20251104_133035963_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251104_133035963_hdr_ae,train
+Rotten_Vegetables/Bittermelon/aug_198_IMG_20251031_164254.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20251031_164254,train
+Rotten_Vegetables/Cucumber/rottenCucumber (55).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (55),train
+Rotten_Vegetables/Carrot/rottenCarrot (229).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (229),train
+Rotten_Vegetables/Cucumber/rottenCucumber (237).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (237),train
+Fresh Vegetables/Papaya/aug_411_IMG_20251123_012935.jpg,papaya,vegetable,fresh,,own,,papaya/img_20251123_012935,train
+Fresh Fruits/Banana/freshBanana (234).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (234),train
+Rotten_Fruits/Strawberry/rottenStrawberry (410).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (410),train
+Unripened_Fruits/Banana/Raw_Banana.a3ab1a00-7dd9-11ed-8cc3-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.a3ab1a00-7dd9-11ed-8cc3-ca27fdb58ae8,train
+Semi_Fresh_Vegetables/Eggplant/aug_180_IMG_20251201_190521890_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251201_190521890_hdr,train
+Fresh Fruits/Pineapple/IMG-20251130-WA0025.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251130-wa0025,train
+Fresh Vegetables/Carrot/freshCarrot (375).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (375),train
+Semi_Fresh_Fruits/ Pineapple/aug_314_IMG_20251123_223147800_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251123_223147800_hdr,train
+Rotten_Fruits/Pineapple/aug_132_IMG-20260128-WA0053.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260128-wa0053,train
+Rotten_Vegetables/Papaya/aug_123_IMG_20260130_163455.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260130_163455,train
+Semi_Fresh_Fruits/Orange/IMG_20251127_191203530_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251127_191203530_hdr,train
+Fresh Vegetables/Potato/freshPotato (606).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (606),train
+overmature_Vegetable/Tomato/IMG_20220601_094839_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094839_1,train
+Fresh Fruits/Orange/IMG_20251106_160155180_HDR.jpg,orange,fruit,fresh,,own,,orange/img_20251106_160155180_hdr,train
+Rotten_Vegetables/Carrot/rottenCarrot (495).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (495),train
+overmature_Vegetable/Tomato/IMG_20220601_094738.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094738,train
+Semi_Fresh_Fruits/banana/IMG_20251124_191045265_HDR.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251124_191045265_hdr,train
+Semi_Fresh_Vegetables/Tomato/aug_19_IMG_20251130_181818990_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251130_181818990_hdr,train
+Rotten_Vegetables/Tomato/aug_296_IMG_20251118_170554395_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20251118_170554395_hdr,train
+Rotten_Fruits/Banana/rottenBanana (146).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (146),train
+Unripened_Fruits/Mango/Raw_Mango.efcec2a4-ebcf-11ed-8d81-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.efcec2a4-ebcf-11ed-8d81-346f24e2fa38,train
+Fresh Vegetables/Bittermelon/aug_174_IMG_20260114_010532.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260114_010532,train
+Rotten_Vegetables/Cucumber/aug_75_IMG_20251123_012331.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251123_012331,train
+Fresh Vegetables/Bittermelon/aug_183_IMG_20251027_171125.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20251027_171125,train
+Fresh Fruits/Banana/freshBanana (88).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (88),train
+Fresh Vegetables/Bell Pepper/IMG_20220601_094019_1.jpg,bell_pepper,vegetable,,ripe,own,freshness conflict: fresh|rotten,bell pepper/img_20220601_094019_1,train
+Fresh Vegetables/Bell Pepper/IMG_20220602_085107_1.jpg,bell_pepper,vegetable,,ripe,own,freshness conflict: fresh|rotten,bell pepper/img_20220602_085107_1,train
+overmature_Vegetable/Tomato/IMG_20220602_090043.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220602_090043,train
+Unripened_Fruits/Banana/Raw_Banana_0_4976.jpg,banana,fruit,,unripe,own,,banana/raw_banana_0_4976,train
+Rotten_Vegetables/Bell Pepper/IMG_20220615_092320.jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/img_20220615_092320,train
+Rotten_Fruits/Mango/rottenMango (161).jpg,mango,fruit,rotten,,own,,mango/rottenmango (161),train
+Fresh Fruits/Strawberry/freshStrawberry (340).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (340),train
+Rotten_Fruits/Strawberry/rottenStrawberry (87).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (87),train
+overmature_Vegetable/Tomato/IMG_20220524_081445.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081445,train
+Semi_Fresh_Vegetables/Tomato/IMG_20251118_170407194_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251118_170407194_hdr,train
+Rotten_Fruits/Strawberry/rottenStrawberry (235).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (235),train
+Semi_Fresh_Vegetables/Cucumber/aug_350_IMG_20260212_155545.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260212_155545,train
+overmature_Vegetable/Tomato/IMG_20220604_093029.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220604_093029,train
+Fresh Vegetables/Tomato/IMG_20251121_145321738_HDR_AE.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251121_145321738_hdr_ae,train
+overmature_Vegetable/Tomato/IMG_20220524_081222.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081222,train
+Rotten_Vegetables/Bittermelon/aug_57_IMG_20260120_005028.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20260120_005028,train
+overmature_Vegetable/Tomato/IMG_20220524_081432.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081432,train
+Rotten_Vegetables/Tomato/rottenTomato (520).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (520),train
+Fresh Fruits/Mango/freshMango (281).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (281),train
+Fresh Vegetables/Tomato/IMG_20220516_183950.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220516_183950,train
+Semi_Fresh_Fruits/ Pineapple/IMG_20251124_193044352_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251124_193044352_hdr,train
+Semi_Fresh_Fruits/ Pineapple/aug_284_IMG_20251125_210618785_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251125_210618785_hdr,train
+Fresh Fruits/Strawberry/freshStrawberry (285).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (285),train
+Rotten_Vegetables/Tomato/IMG_20260128_095341192_HDR_AE.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260128_095341192_hdr_ae,train
+Semi_Fresh_Vegetables/Tomato/IMG_20251124_191728611_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251124_191728611_hdr,train
+Semi_Fresh_Vegetables/ Bittermelon/IMG_20260116_025837.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260116_025837,train
+Fresh Vegetables/Bell Pepper/freshPepper (16).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (16),train
+Unripened_Fruits/Banana/Raw_Banana.dedb862a-ebe3-11ed-bba9-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.dedb862a-ebe3-11ed-bba9-346f24e2fa38,train
+Fresh Fruits/Banana/aug_409_IMG_20251119_201458798_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251119_201458798_hdr,train
+Fresh Fruits/Orange/freshOrange (180).png,orange,fruit,fresh,,own,,orange/freshorange (180),train
+Rotten_Vegetables/Carrot/rottenCarrot (402).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (402),train
+Semi_Fresh_Vegetables/Cucumber/aug_48_IMG_20260212_155557.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260212_155557,train
+Fresh Fruits/Orange/freshOrange (92).jpg,orange,fruit,fresh,,own,,orange/freshorange (92),train
+Rotten_Fruits/Strawberry/rottenStrawberry (532).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (532),train
+Rotten_Fruits/Strawberry/rottenStrawberry (421).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (421),train
+Rotten_Vegetables/Potato/rottenPotato (376).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (376),train
+Rotten_Fruits/Apple/rottenApple (134).jpg,apple,fruit,rotten,,own,,apple/rottenapple (134),train
+Unripened_Vegetables/Tomato/IMG_20220506_093215.jpg,tomato,vegetable,,unripe,own,,tomato/img_20220506_093215,train
+Fresh Vegetables/Eggplant/aug_217_IMG_20251122_205743503_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251122_205743503_hdr,train
+Semi_Fresh_Fruits/Orange/IMG_20251124_191350549_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251124_191350549_hdr,train
+Fresh Vegetables/Eggplant/IMG_20251118_164622531_HDR_AE.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251118_164622531_hdr_ae,train
+Fresh Vegetables/Bittermelon/aug_68_IMG_20260116_030256.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260116_030256,train
+Fresh Vegetables/Tomato/IMG_20251127_192104648_HDR.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251127_192104648_hdr,train
+Rotten_Vegetables/Cucumber/aug_72_IMG_20251123_012455.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251123_012455,train
+Fresh Fruits/Strawberry/freshStrawberry (267).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (267),train
+Rotten_Vegetables/Tomato/IMG_20260122_215920688_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260122_215920688_hdr,train
+Rotten_Vegetables/Tomato/rottenTomato (437).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (437),train
+Unripened_Fruits/Banana/Raw_Banana.9f8da9b0-7dd8-11ed-8596-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.9f8da9b0-7dd8-11ed-8596-ca27fdb58ae8,train
+Fresh Vegetables/Bell Pepper/freshPepper (585).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (585),train
+Rotten_Fruits/Orange/rottenOrange (545).jpg,orange,fruit,rotten,,own,,orange/rottenorange (545),train
+Rotten_Vegetables/Papaya/aug_256_IMG_20260130_163519_1.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260130_163519_1,train
+Fresh Vegetables/Bell Pepper/IMG_20220603_084934.jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/img_20220603_084934,train
+Fresh Vegetables/Cucumber/aug_169_IMG_20260114_010153.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260114_010153,train
+Semi_Fresh_Vegetables/ Bittermelon/aug_196_IMG_20251121_081446.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20251121_081446,train
+Rotten_Fruits/Mango/rottenMango (26).jpg,mango,fruit,rotten,,own,,mango/rottenmango (26),train
+Rotten_Fruits/Orange/aug_161_IMG-20251114-WA0001.jpg,orange,fruit,rotten,,own,,orange/img-20251114-wa0001,train
+Rotten_Vegetables/Cucumber/aug_21_IMG_20251124_021845.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251124_021845,train
+Semi_Fresh_Fruits/banana/aug_188_IMG_20251122_112506867_HDR_AE.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251122_112506867_hdr_ae,train
+Semi_Fresh_Vegetables/Eggplant/IMG_20251123_110357110_HDR_AE.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251123_110357110_hdr_ae,train
+Fresh Vegetables/Tomato/IMG_20220517_090944.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220517_090944,train
+Semi_Fresh_Fruits/banana/aug_247_IMG_20251107_113727779_HDR_AE.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251107_113727779_hdr_ae,train
+Fresh Vegetables/Carrot/freshCarrot (31).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (31),train
+Rotten_Fruits/Orange/rottenOrange (319).jpg,orange,fruit,rotten,,own,,orange/rottenorange (319),train
+Fresh Vegetables/Potato/freshPotato (418).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (418),train
+Semi_Fresh_Vegetables/Eggplant/IMG_20251127_192646902_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251127_192646902_hdr,train
+Fresh Fruits/Strawberry/freshStrawberry (259).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (259),train
+Semi_Fresh_Vegetables/ Bittermelon/aug_233_IMG_20260116_025850.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260116_025850,train
+Rotten_Fruits/Banana/IMG_20251125_210423689_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251125_210423689_hdr,train
+Rotten_Fruits/Mango/rottenMango (76).jpg,mango,fruit,rotten,,own,,mango/rottenmango (76),train
+Unripened_Fruits/Banana/Raw_Banana.b0ad5e73-7612-11ed-9c17-d0ec6da7db5b.jpg,banana,fruit,,unripe,own,,banana/raw_banana.b0ad5e73-7612-11ed-9c17-d0ec6da7db5b,train
+Rotten_Vegetables/Eggplant/IMG_20251105_103223094_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251105_103223094_hdr_ae,train
+Fresh Fruits/Pineapple/aug_203_IMG_20251108_122215729_HDR_AE.jpg,pineapple,fruit,fresh,,own,,pineapple/img_20251108_122215729_hdr_ae,train
+overmature_Vegetable/Tomato/IMG_20220527_090547.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220527_090547,train
+Rotten_Fruits/Strawberry/rottenStrawberry (567).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (567),train
+Rotten_Fruits/Orange/rottenOrange (525).jpg,orange,fruit,rotten,,own,,orange/rottenorange (525),train
+Rotten_Fruits/Mango/rottenMango (162).jpg,mango,fruit,rotten,,own,,mango/rottenmango (162),train
+Unripened_Fruits/Mango/Raw_Mango.c998aee5-ebd0-11ed-a41e-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.c998aee5-ebd0-11ed-a41e-346f24e2fa38,train
+Fresh Vegetables/Tomato/IMG_20251110_093831120_HDR_AE.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251110_093831120_hdr_ae,train
+Rotten_Vegetables/Carrot/rottenCarrot (359).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (359),train
+Semi_Fresh_Vegetables/Eggplant/aug_116_IMG_20251127_192452434_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251127_192452434_hdr,train
+Rotten_Fruits/Orange/rottenOrange (119).jpg,orange,fruit,rotten,,own,,orange/rottenorange (119),train
+Fresh Fruits/Orange/aug_252_IMG-20251122-WA0006.jpg,orange,fruit,fresh,,own,,orange/img-20251122-wa0006,train
+Rotten_Fruits/Orange/rottenOrange (318).jpg,orange,fruit,rotten,,own,,orange/rottenorange (318),train
+Fresh Fruits/Mango/freshMango (345).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (345),train
+Rotten_Vegetables/Cucumber/rottenCucumber (273).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (273),train
+Semi_Fresh_Fruits/Orange/aug_131_IMG_20251112_113056499_HDR_AE.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251112_113056499_hdr_ae,train
+Fresh Vegetables/Chile/IMG_20220603_084310.jpg,chilli,vegetable,fresh,ripe,own,,chile/img_20220603_084310,train
+overmature_Vegetable/Tomato/IMG_20220528_091949.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220528_091949,train
+Fresh Fruits/Banana/aug_99_IMG_20251103_192502588_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251103_192502588_hdr,train
+Fresh Vegetables/Tomato/IMG_20251121_145313877_HDR_AE.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251121_145313877_hdr_ae,train
+Rotten_Fruits/Apple/rottenApple (342).jpg,apple,fruit,rotten,,own,,apple/rottenapple (342),train
+Rotten_Vegetables/Potato/rottenPotato (216).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (216),train
+Fresh Fruits/Orange/freshOrange (2).jpg,orange,fruit,fresh,,own,,orange/freshorange (2),train
+Semi_Fresh_Vegetables/Eggplant/IMG_20251201_190457764_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251201_190457764_hdr,train
+Unripened_Fruits/Banana/Raw_Banana.c7209081-ebcb-11ed-816b-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.c7209081-ebcb-11ed-816b-346f24e2fa38,train
+Rotten_Fruits/Orange/rottenOrange (578).jpg,orange,fruit,rotten,,own,,orange/rottenorange (578),train
+Rotten_Vegetables/Cucumber/rottenCucumber (364).JPG,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (364),train
+Fresh Vegetables/Tomato/IMG_20220510_080257.jpg,tomato,vegetable,fresh,unripe,own,,tomato/img_20220510_080257,train
+overmature_Vegetable/Tomato/IMG_20220524_081240.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081240,train
+Rotten_Vegetables/Cucumber/aug_511_IMG_20251123_012415.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251123_012415,train
+Rotten_Fruits/Pineapple/aug_148_IMG-20260128-WA0035.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260128-wa0035,train
+Unripened_Fruits/Banana/Raw_Banana.46840277-ebe4-11ed-93b4-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.46840277-ebe4-11ed-93b4-346f24e2fa38,train
+Unripened_Fruits/Mango/Raw_Mango.d202ddd1-ebd0-11ed-88f9-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.d202ddd1-ebd0-11ed-88f9-346f24e2fa38,train
+overmature_Vegetable/Tomato/IMG_20220602_085934.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220602_085934,train
+Fresh Vegetables/Bittermelon/aug_218_IMG_20251027_171156.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20251027_171156,train
+Fresh Fruits/Orange/freshOrange (165).jpg,orange,fruit,fresh,,own,,orange/freshorange (165),train
+Unripened_Fruits/Mango/Raw_Mango.3ff4e66f-ebdb-11ed-aef1-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.3ff4e66f-ebdb-11ed-aef1-346f24e2fa38,train
+Rotten_Fruits/Apple/rottenApple (441).jpg,apple,fruit,rotten,,own,,apple/rottenapple (441),train
+Fresh Vegetables/Eggplant/aug_266_IMG_20251122_205800088_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251122_205800088_hdr,train
+Unripened_Fruits/Banana/Raw_Banana.d731b2f1-7dd8-11ed-9ecd-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.d731b2f1-7dd8-11ed-9ecd-ca27fdb58ae8,train
+Unripened_Fruits/Mango/Raw_Mango.b58cef13-ebda-11ed-af8d-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.b58cef13-ebda-11ed-af8d-346f24e2fa38,train
+Rotten_Fruits/Strawberry/rottenStrawberry (35).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (35),train
+Rotten_Fruits/Banana/rottenBanana (64).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (64),train
+Fresh Vegetables/Bittermelon/aug_231_IMG_20251117_155908.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20251117_155908,train
+Semi_Fresh_Vegetables/Papaya/aug_371_IMG_20251031_164014.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251031_164014,train
+Fresh Vegetables/Cucumber/freshCucumber (559).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (559),train
+Rotten_Vegetables/Cucumber/aug_133_IMG_20251202_015514.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251202_015514,train
+Fresh Vegetables/Bittermelon/IMG_20251121_081548.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20251121_081548,train
+Rotten_Fruits/Orange/aug_258_IMG-20260128-WA0014.jpg,orange,fruit,rotten,,own,,orange/img-20260128-wa0014,train
+Rotten_Fruits/Orange/rottenOrange (355).jpg,orange,fruit,rotten,,own,,orange/rottenorange (355),train
+overmature_Vegetable/Bell Pepper/IMG_20220607_090932.jpg,bell_pepper,vegetable,,,own,freshness conflict: fresh|rotten; ripeness conflict: overripe|ripe,bell pepper/img_20220607_090932,train
+Rotten_Fruits/Orange/rottenOrange (508).jpg,orange,fruit,rotten,,own,,orange/rottenorange (508),train
+Rotten_Vegetables/Cucumber/rottenCucumber (485).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (485),train
+overmature_Vegetable/Tomato/IMG_20220612_151318.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220612_151318,train
+Rotten_Vegetables/Eggplant/IMG_20251104_133109984_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251104_133109984_hdr_ae,train
+Rotten_Fruits/Mango/rottenMango (59).jpg,mango,fruit,rotten,,own,,mango/rottenmango (59),train
+Rotten_Vegetables/Tomato/rottenTomato (321).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (321),train
+Unripened_Fruits/Banana/Raw_Banana.39a87c33-ebe5-11ed-b709-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.39a87c33-ebe5-11ed-b709-346f24e2fa38,train
+Rotten_Vegetables/Eggplant/aug_429_IMG_20251117_141201104_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251117_141201104_hdr_ae,train
+Semi_Fresh_Fruits/banana/aug_354_IMG_20251123_110126268_HDR_AE.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251123_110126268_hdr_ae,train
+Rotten_Vegetables/Potato/rottenPotato (281).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (281),train
+Rotten_Vegetables/Bittermelon/IMG_20260120_004909.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20260120_004909,train
+Fresh Vegetables/Tomato/IMG_20251125_211531397_HDR.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251125_211531397_hdr,train
+Rotten_Fruits/Orange/aug_52_IMG-20251114-WA0012.jpg,orange,fruit,rotten,,own,,orange/img-20251114-wa0012,train
+Fresh Vegetables/Potato/freshPotato (79).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (79),train
+Rotten_Vegetables/Papaya/IMG_20260122_002636.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260122_002636,train
+Fresh Vegetables/Potato/freshPotato (302).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (302),train
+overmature_Vegetable/Tomato/IMG_20220530_084308.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220530_084308,train
+overmature_Vegetable/Chile/IMG_20220612_152109.jpg,chilli,vegetable,,overripe,own,,chile/img_20220612_152109,train
+Fresh Vegetables/Carrot/freshCarrot (131).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (131),train
+Unripened_Fruits/Mango/Raw_Mango.27e229c8-ebdb-11ed-85ba-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.27e229c8-ebdb-11ed-85ba-346f24e2fa38,train
+Rotten_Vegetables/Bittermelon/aug_309_IMG_20251202_020330.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20251202_020330,train
+Fresh Fruits/Banana/freshBanana (404).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (404),train
+Semi_Fresh_Vegetables/Cucumber/IMG_20251105_142839.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20251105_142839,train
+overmature_Vegetable/Tomato/IMG_20220604_092852.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220604_092852,train
+Rotten_Vegetables/Papaya/aug_39_IMG_20260130_163537.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260130_163537,train
+Rotten_Vegetables/Cucumber/aug_358_IMG_20251202_015448.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251202_015448,train
+Fresh Fruits/Orange/aug_41_IMG-20251122-WA0006.jpg,orange,fruit,fresh,,own,,orange/img-20251122-wa0006,train
+Rotten_Fruits/Banana/IMG_20251126_190334631_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251126_190334631_hdr,train
+Rotten_Vegetables/Tomato/aug_313_IMG_20260124_113040022_HDR_AE.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260124_113040022_hdr_ae,train
+Semi_Fresh_Vegetables/ Bittermelon/IMG_20260116_025835.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260116_025835,train
+Fresh Fruits/Banana/Banana (4).jpeg,banana,fruit,fresh,ripe,own,,banana/banana (4),train
+Semi_Fresh_Vegetables/Tomato/IMG_20251201_185711408_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251201_185711408_hdr,train
+Fresh Fruits/Banana/aug_380_IMG_20251120_203431072_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251120_203431072_hdr,train
+Fresh Vegetables/Carrot/freshCarrot (481).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (481),train
+Fresh Fruits/Apple/freshApple (216).jpg,apple,fruit,fresh,,own,,apple/freshapple (216),train
+Unripened_Fruits/Banana/Raw_Banana.e9b2f469-ebe3-11ed-b1c7-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.e9b2f469-ebe3-11ed-b1c7-346f24e2fa38,train
+Rotten_Fruits/Banana/rottenBanana (511).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (511),train
+Fresh Vegetables/Eggplant/aug_313_IMG_20251119_200103566_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251119_200103566_hdr,train
+Fresh Vegetables/Bell Pepper/freshPepper (397).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (397),train
+Fresh Vegetables/Bell Pepper/freshPepper (265).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (265),train
+Rotten_Fruits/Banana/rottenBanana (52).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (52),train
+Rotten_Vegetables/Eggplant/IMG_20251201_133259035_HDR.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251201_133259035_hdr,train
+overmature_Vegetable/Bell Pepper/IMG_20220601_094144.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220601_094144,train
+Semi_Fresh_Vegetables/ Bittermelon/aug_340_IMG_20251123_013439.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20251123_013439,train
+Fresh Fruits/Orange/IMG-20251121-WA0011.jpg,orange,fruit,fresh,,own,,orange/img-20251121-wa0011,train
+Semi_Fresh_Vegetables/Papaya/aug_45_IMG_20260125_005113.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20260125_005113,train
+Unripened_Fruits/Banana/Raw_Banana.613776e7-ebcb-11ed-a101-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.613776e7-ebcb-11ed-a101-346f24e2fa38,train
+Fresh Fruits/Orange/freshOrange (5).png,orange,fruit,fresh,,own,,orange/freshorange (5),train
+Rotten_Vegetables/Papaya/IMG_20260202_032516.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260202_032516,train
+Fresh Fruits/Orange/aug_138_IMG_20251105_102454944_HDR_AE.jpg,orange,fruit,fresh,,own,,orange/img_20251105_102454944_hdr_ae,train
+Fresh Fruits/Orange/freshOrange (126).jpg,orange,fruit,fresh,,own,,orange/freshorange (126),train
+overmature_Vegetable/Tomato/IMG_20220528_091952.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220528_091952,train
+Fresh Vegetables/Tomato/IMG_20251120_203927060_HDR.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251120_203927060_hdr,train
+Semi_Fresh_Fruits/Orange/IMG_20251201_133105922_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251201_133105922_hdr,train
+Fresh Fruits/Orange/freshOrange (182).png,orange,fruit,fresh,,own,,orange/freshorange (182),train
+Fresh Fruits/Mango/freshMango (86).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (86),train
+overmature_Vegetable/Tomato/IMG_20220601_094719.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094719,train
+overmature_Vegetable/Bell Pepper/IMG_20220607_091240.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220607_091240,train
+Fresh Vegetables/Potato/freshPotato (544).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (544),train
+Semi_Fresh_Vegetables/Tomato/aug_103_IMG_20251122_210959945_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251122_210959945_hdr,train
+Semi_Fresh_Vegetables/Tomato/IMG_20251114_214131842_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251114_214131842_hdr,train
+Semi_Fresh_Vegetables/Papaya/aug_482_IMG_20260125_005130.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20260125_005130,train
+overmature_Vegetable/Tomato/IMG_20220601_094752.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094752,train
+Semi_Fresh_Vegetables/Papaya/aug_480_IMG_20251031_164038.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251031_164038,train
+Fresh Fruits/Mango/freshMango (382).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (382),train
+Semi_Fresh_Vegetables/Tomato/IMG_20251116_220135323_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251116_220135323_hdr,train
+Semi_Fresh_Fruits/ Pineapple/aug_354_IMG-20251205-WA0018.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img-20251205-wa0018,train
+Fresh Fruits/Orange/freshOrange (54).png,orange,fruit,fresh,,own,,orange/freshorange (54),train
+Fresh Vegetables/Potato/freshPotato (586).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (586),train
+Rotten_Vegetables/Potato/rottenPotato (27).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (27),train
+Fresh Vegetables/Tomato/IMG_20251120_204113317_HDR.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251120_204113317_hdr,train
+Fresh Vegetables/Papaya/aug_400_IMG_20260114_004929.jpg,papaya,vegetable,fresh,,own,,papaya/img_20260114_004929,train
+Rotten_Vegetables/Eggplant/aug_400_IMG_20251118_165218913_HDR.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251118_165218913_hdr,train
+Fresh Vegetables/Chile/IMG_20220531_093603.jpg,chilli,vegetable,fresh,,own,ripeness conflict: ripe|unripe,chile/img_20220531_093603,train
+overmature_Vegetable/Bell Pepper/IMG_20220606_095419.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220606_095419,train
+Rotten_Vegetables/Cucumber/aug_468_IMG_20260122_003111.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20260122_003111,train
+overmature_Vegetable/Bell Pepper/IMG_20220607_091256.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220607_091256,train
+Rotten_Fruits/Orange/rottenOrange (190).jpg,orange,fruit,rotten,,own,,orange/rottenorange (190),train
+Fresh Vegetables/Tomato/IMG_20220514_090358.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220514_090358,train
+Fresh Vegetables/Tomato/IMG_20220520_092954.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220520_092954,train
+Semi_Fresh_Vegetables/Papaya/aug_74_IMG_20260125_005130.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20260125_005130,train
+Rotten_Fruits/Strawberry/rottenStrawberry (197).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (197),train
+Fresh Vegetables/Tomato/IMG_20220513_101035.jpg,tomato,vegetable,fresh,,own,,tomato/img_20220513_101035,train
+Rotten_Fruits/Banana/aug_28_IMG_20251115_121108642_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20251115_121108642_hdr_ae,train
+Rotten_Fruits/Banana/IMG_20251201_132802273_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251201_132802273_hdr,train
+Fresh Vegetables/Cucumber/aug_45_IMG_20260114_010350.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260114_010350,train
+Rotten_Vegetables/Tomato/aug_251_IMG-20260210-WA0012.jpg,tomato,vegetable,rotten,,own,,tomato/img-20260210-wa0012,train
+Rotten_Vegetables/Bell Pepper/IMG_20220614_082002.jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/img_20220614_082002,train
+Fresh Vegetables/Carrot/freshCarrot (454).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (454),train
+Fresh Vegetables/Cucumber/freshCucumber (571).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (571),train
+Rotten_Fruits/Banana/rottenBanana (351).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (351),train
+Semi_Fresh_Vegetables/Eggplant/IMG_20251125_212221501_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251125_212221501_hdr,train
+Rotten_Fruits/Pineapple/aug_106_IMG-20251227-WA0014.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20251227-wa0014,train
+Fresh Vegetables/Papaya/aug_401_IMG_20260114_004743.jpg,papaya,vegetable,fresh,,own,,papaya/img_20260114_004743,train
+Rotten_Fruits/Pineapple/aug_74_IMG-20251230-WA0010.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20251230-wa0010,train
+Fresh Fruits/Strawberry/freshStrawberry (17).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (17),train
+overmature_Vegetable/Tomato/IMG_20220606_094132.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220606_094132,train
+overmature_Vegetable/Tomato/IMG_20220524_081230.jpg,tomato,vegetable,rotten,,own,,tomato/img_20220524_081230,train
+Rotten_Fruits/Banana/aug_168_IMG_20251111_142409389_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20251111_142409389_hdr_ae,train
+Semi_Fresh_Vegetables/Cucumber/aug_345_IMG_20260125_005539.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260125_005539,train
+Fresh Fruits/Orange/freshOrange (23).jpg,orange,fruit,fresh,,own,,orange/freshorange (23),train
+Semi_Fresh_Fruits/banana/IMG_20251106_155448875_HDR.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251106_155448875_hdr,train
+Rotten_Fruits/Apple/rottenApple (1).png,apple,fruit,rotten,,own,,apple/rottenapple (1),train
+Fresh Vegetables/Bell Pepper/freshPepper (199).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (199),train
+Semi_Fresh_Vegetables/ Bittermelon/aug_431_IMG_20260116_025828.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260116_025828,train
+Semi_Fresh_Vegetables/Tomato/IMG_20251201_185748777_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251201_185748777_hdr,train
+Rotten_Vegetables/Eggplant/aug_201_IMG_20251120_204424239_HDR.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251120_204424239_hdr,train
+Rotten_Vegetables/Bell Pepper/IMG_20220614_082104.jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/img_20220614_082104,train
+Unripened_Fruits/Mango/Raw_Mango.518c9f50-ebda-11ed-8210-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.518c9f50-ebda-11ed-8210-346f24e2fa38,train
+Fresh Vegetables/Eggplant/aug_139_IMG_20251123_221922891_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251123_221922891_hdr,train
+Rotten_Fruits/Banana/rottenBanana (153).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (153),train
+Semi_Fresh_Vegetables/Tomato/aug_265_IMG_20251124_191741661_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251124_191741661_hdr,train
+Semi_Fresh_Fruits/Orange/IMG_20251127_191110251_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251127_191110251_hdr,train
+Rotten_Fruits/Apple/rottenApple (567).jpg,apple,fruit,rotten,,own,,apple/rottenapple (567),train
+Fresh Fruits/Orange/freshOrange (27).jpg,orange,fruit,fresh,,own,,orange/freshorange (27),train
+Fresh Fruits/Strawberry/freshStrawberry (316).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (316),train
+Fresh Vegetables/Bell Pepper/IMG_20220604_094003 2.jpg,bell_pepper,vegetable,,ripe,own,freshness conflict: fresh|rotten,bell pepper/img_20220604_094003 2,train
+Fresh Vegetables/Bell Pepper/freshPepper (408).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (408),train
+Semi_Fresh_Vegetables/ Bittermelon/aug_155_IMG_20260116_025922.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260116_025922,train
+Rotten_Fruits/Mango/rottenMango (214).jpg,mango,fruit,rotten,,own,,mango/rottenmango (214),train
+Semi_Fresh_Vegetables/Tomato/aug_83_IMG_20251123_222207958_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251123_222207958_hdr,train
+Unripened_Fruits/Banana/Raw_Banana.0223af85-ebcc-11ed-98ec-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.0223af85-ebcc-11ed-98ec-346f24e2fa38,train
+Fresh Vegetables/Eggplant/IMG_20251120_202130522_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251120_202130522_hdr,train
+Rotten_Vegetables/Tomato/rottenTomato (314).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (314),train
+Rotten_Vegetables/Bell Pepper/IMG_20220615_092524.jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/img_20220615_092524,train
+Rotten_Vegetables/Chile/IMG_20220916_081115.jpg,chilli,vegetable,rotten,,own,,chile/img_20220916_081115,train
+Fresh Vegetables/Potato/freshPotato (307).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (307),train
+overmature_Vegetable/Bell Pepper/IMG_20220601_094057.jpg,bell_pepper,vegetable,,,own,freshness conflict: fresh|rotten; ripeness conflict: overripe|ripe,bell pepper/img_20220601_094057,train
+Fresh Vegetables/Cucumber/aug_326_IMG_20260204_152024.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260204_152024,train
+Rotten_Vegetables/Cucumber/rottenCucumber (257).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (257),train
+Semi_Fresh_Vegetables/Cucumber/aug_270_IMG_20260212_155618.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260212_155618,train
+Rotten_Vegetables/Cucumber/aug_288_IMG_20260123_013840.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20260123_013840,train
+Rotten_Vegetables/Cucumber/rottenCucumber (227).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (227),train
+Rotten_Vegetables/Bittermelon/IMG_20251202_020436.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20251202_020436,train
+Rotten_Fruits/Apple/rottenApple (572).jpg,apple,fruit,rotten,,own,,apple/rottenapple (572),train
+Fresh Vegetables/Tomato/IMG_20220510_080204.jpg,tomato,vegetable,fresh,unripe,own,,tomato/img_20220510_080204,train
+Rotten_Vegetables/Tomato/rottenTomato (256).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (256),train
+Rotten_Vegetables/Tomato/IMG_20260124_112819344_HDR_AE.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260124_112819344_hdr_ae,train
+Fresh Fruits/Pineapple/aug_140_IMG-20251125-WA0022.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251125-wa0022,train
+Fresh Fruits/Banana/freshBanana (128).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (128),train
+Rotten_Fruits/Strawberry/rottenStrawberry (76).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (76),train
+Semi_Fresh_Vegetables/Cucumber/IMG_20251118_161153.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20251118_161153,train
+Fresh Vegetables/Cucumber/freshCucumber (470).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (470),train
+Rotten_Fruits/Strawberry/rottenStrawberry (239).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (239),train
+Rotten_Vegetables/Bittermelon/aug_365_IMG_20251202_015841.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20251202_015841,train
+Rotten_Fruits/Banana/rottenBanana (43).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (43),train
+Rotten_Vegetables/Eggplant/IMG_20251110_094450883_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251110_094450883_hdr_ae,train
+Fresh Fruits/Apple/freshApple (229).jpg,apple,fruit,fresh,,own,,apple/freshapple (229),train
+Rotten_Fruits/Apple/rottenApple (527).jpg,apple,fruit,rotten,,own,,apple/rottenapple (527),train
+Rotten_Fruits/Mango/rottenMango (139).jpg,mango,fruit,rotten,,own,,mango/rottenmango (139),train
+Rotten_Vegetables/Carrot/rottenCarrot (468).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (468),train
+Fresh Fruits/Mango/freshMango (352).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (352),train
+Semi_Fresh_Vegetables/ Bittermelon/IMG_20260120_004745.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260120_004745,train
+Rotten_Fruits/Orange/aug_312_IMG-20251227-WA0009.jpg,orange,fruit,rotten,,own,,orange/img-20251227-wa0009,train
+overmature_Vegetable/Tomato/IMG_20220524_081317.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081317,train
+Fresh Fruits/Strawberry/freshStrawberry (107).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (107),train
+Rotten_Fruits/Mango/rottenMango (89).jpg,mango,fruit,rotten,,own,,mango/rottenmango (89),train
+Semi_Fresh_Vegetables/Tomato/aug_182_IMG_20251120_204538502_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251120_204538502_hdr,train
+Rotten_Fruits/Banana/aug_198_IMG_20251110_093648708_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20251110_093648708_hdr_ae,train
+Rotten_Fruits/Orange/aug_437_IMG-20251207-WA0004.jpg,orange,fruit,rotten,,own,,orange/img-20251207-wa0004,train
+Semi_Fresh_Fruits/Orange/aug_61_IMG_20251116_220642218_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251116_220642218_hdr,train
+Fresh Vegetables/Cucumber/aug_208_IMG_20251103_090445.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20251103_090445,train
+overmature_Vegetable/Tomato/IMG_20220604_092905.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220604_092905,train
+overmature_Vegetable/Tomato/IMG_20220528_092047.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220528_092047,train
+Fresh Vegetables/Tomato/IMG_20220521_181313.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220521_181313,train
+overmature_Vegetable/Tomato/IMG_20220525_073327.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220525_073327,train
+Rotten_Fruits/Orange/aug_251_IMG-20251207-WA0009.jpg,orange,fruit,rotten,,own,,orange/img-20251207-wa0009,train
+Rotten_Fruits/Banana/aug_64_IMG_20251114_213942833_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251114_213942833_hdr,train
+Rotten_Vegetables/Cucumber/rottenCucumber (167).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (167),train
+Rotten_Vegetables/Cucumber/rottenCucumber (62).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (62),train
+Rotten_Vegetables/Tomato/rottenTomato (8).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (8),train
+Rotten_Fruits/Mango/rottenMango (158).jpg,mango,fruit,rotten,,own,,mango/rottenmango (158),train
+Rotten_Vegetables/Cucumber/rottenCucumber (517).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (517),train
+Fresh Fruits/Mango/freshMango (261).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (261),train
+Fresh Fruits/Orange/aug_164_IMG_20251110_094142739_HDR_AE.jpg,orange,fruit,fresh,,own,,orange/img_20251110_094142739_hdr_ae,train
+Fresh Fruits/Pineapple/pineapple(5).jpeg,pineapple,fruit,fresh,,own,,pineapple/pineapple(5),train
+Fresh Fruits/Mango/freshMango (6).png,mango,fruit,fresh,ripe,own,,mango/freshmango (6),train
+Rotten_Fruits/Pineapple/aug_319_IMG-20260128-WA0064.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260128-wa0064,train
+Unripened_Fruits/Mango/Raw_Mango.3cd19c8b-ebd0-11ed-8cce-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.3cd19c8b-ebd0-11ed-8cce-346f24e2fa38,train
+Rotten_Vegetables/Tomato/rottenTomato (94).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (94),train
+Unripened_Fruits/Banana/Raw_Banana.3f434dd4-7dd9-11ed-933a-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.3f434dd4-7dd9-11ed-933a-ca27fdb58ae8,train
+Rotten_Fruits/Pineapple/aug_329_IMG-20260130-WA0130.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260130-wa0130,train
+Fresh Fruits/Orange/freshOrange (68).jpg,orange,fruit,fresh,,own,,orange/freshorange (68),train
+Rotten_Fruits/Orange/aug_128_IMG-20251207-WA0002.jpg,orange,fruit,rotten,,own,,orange/img-20251207-wa0002,train
+Rotten_Fruits/Strawberry/rottenStrawberry (28).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (28),train
+Rotten_Fruits/Orange/aug_348_IMG-20251113-WA0020.jpg,orange,fruit,rotten,,own,,orange/img-20251113-wa0020,train
+Rotten_Vegetables/Potato/rottenPotato (167).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (167),train
+Fresh Fruits/Apple/freshApple (449).png,apple,fruit,fresh,,own,,apple/freshapple (449),train
+Semi_Fresh_Fruits/ Pineapple/aug_331_IMG_20251116_220758571_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251116_220758571_hdr,train
+Fresh Fruits/Orange/aug_57_IMG_20251106_160140327_HDR_AE.jpg,orange,fruit,fresh,,own,,orange/img_20251106_160140327_hdr_ae,train
+Fresh Fruits/Orange/aug_276_IMG-20251112-WA0010.jpg,orange,fruit,fresh,,own,,orange/img-20251112-wa0010,train
+Fresh Fruits/Banana/freshBanana (222).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (222),train
+overmature_Vegetable/Tomato/IMG_20220525_073709.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220525_073709,train
+Rotten_Fruits/Mango/rottenMango (83).jpg,mango,fruit,rotten,,own,,mango/rottenmango (83),train
+Rotten_Fruits/Banana/rottenBanana (353).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (353),train
+Fresh Vegetables/Chile/IMG_20220531_093617.jpg,chilli,vegetable,fresh,,own,ripeness conflict: ripe|unripe,chile/img_20220531_093617,train
+Fresh Fruits/Pineapple/IMG-20251127-WA0018.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251127-wa0018,train
+overmature_Vegetable/Tomato/IMG_20220530_084013.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220530_084013,train
+Fresh Vegetables/Carrot/freshCarrot (564).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (564),train
+Fresh Vegetables/Papaya/aug_320_IMG_20260114_004551.jpg,papaya,vegetable,fresh,,own,,papaya/img_20260114_004551,train
+Rotten_Vegetables/Tomato/aug_333_IMG-20260219-WA0001.jpg,tomato,vegetable,rotten,,own,,tomato/img-20260219-wa0001,train
+Rotten_Vegetables/Potato/rottenPotato (315).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (315),train
+Fresh Fruits/Orange/freshOrange (32).png,orange,fruit,fresh,,own,,orange/freshorange (32),train
+overmature_Vegetable/Tomato/IMG_20220525_073401_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220525_073401_1,train
+Fresh Vegetables/Carrot/freshCarrot (2).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (2),train
+Fresh Fruits/Orange/freshOrange (224).jpg,orange,fruit,fresh,,own,,orange/freshorange (224),train
+Fresh Fruits/Banana/aug_205_IMG_20251119_201407916_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251119_201407916_hdr,train
+overmature_Vegetable/Tomato/IMG_20220602_085544.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220602_085544,train
+Semi_Fresh_Vegetables/ Bittermelon/aug_426_IMG_20251123_013458.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20251123_013458,train
+Fresh Fruits/Banana/freshBanana (247).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (247),train
+Fresh Vegetables/Papaya/aug_20_IMG_20251123_012930.jpg,papaya,vegetable,fresh,,own,,papaya/img_20251123_012930,train
+Rotten_Fruits/Orange/aug_58_IMG-20251113-WA0018.jpg,orange,fruit,rotten,,own,,orange/img-20251113-wa0018,train
+Fresh Vegetables/Chile/IMG_20220530_085823.jpg,chilli,vegetable,fresh,,own,ripeness conflict: ripe|unripe,chile/img_20220530_085823,train
+Semi_Fresh_Vegetables/Papaya/aug_182_IMG_20251124_022545.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251124_022545,train
+Rotten_Fruits/Pineapple/aug_94_IMG-20260128-WA0078.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260128-wa0078,train
+Fresh Fruits/Banana/aug_382_Banana (14).jpeg,banana,fruit,fresh,ripe,own,,banana/banana (14),train
+Rotten_Vegetables/Tomato/aug_272_IMG_20260126_223705332_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260126_223705332_hdr,train
+Fresh Fruits/Banana/aug_338_IMG_20251120_203344956_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251120_203344956_hdr,train
+Fresh Vegetables/Papaya/aug_209_IMG_20260116_030643.jpg,papaya,vegetable,fresh,,own,,papaya/img_20260116_030643,train
+Rotten_Vegetables/Tomato/aug_168_IMG_20260122_220844974_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260122_220844974_hdr,train
+Fresh Vegetables/Cucumber/aug_229_IMG_20260116_030154.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260116_030154,train
+overmature_Vegetable/Tomato/IMG_20220604_093159_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220604_093159_1,train
+Rotten_Vegetables/Eggplant/aug_24_IMG_20251107_114417511_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251107_114417511_hdr_ae,train
+Rotten_Vegetables/Bell Pepper/rottenPepper (405).jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/rottenpepper (405),train
+Unripened_Fruits/Mango/Raw_Mango.af81dcf3-ebda-11ed-9902-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.af81dcf3-ebda-11ed-9902-346f24e2fa38,train
+Fresh Fruits/Apple/freshApple (702).png,apple,fruit,fresh,,own,,apple/freshapple (702),train
+Rotten_Fruits/Strawberry/rottenStrawberry (436).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (436),train
+Fresh Fruits/Banana/aug_1_IMG_20260120_095546193_HDR_AE.jpg,banana,fruit,fresh,ripe,own,,banana/img_20260120_095546193_hdr_ae,train
+Fresh Vegetables/Cucumber/aug_277_IMG_20260204_152018.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260204_152018,train
+Rotten_Fruits/Banana/IMG_20251125_210229106_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251125_210229106_hdr,train
+Semi_Fresh_Vegetables/Papaya/aug_25_IMG_20251124_021901.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251124_021901,train
+Rotten_Vegetables/Tomato/aug_301_IMG_20251116_220200158_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20251116_220200158_hdr,train
+Rotten_Fruits/Banana/rottenBanana (343).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (343),train
+Semi_Fresh_Vegetables/Eggplant/eggplant(4).jpeg,eggplant,vegetable,semi_fresh,,own,,eggplant/eggplant(4),train
+Fresh Vegetables/Cucumber/IMG_20251103_090445.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20251103_090445,train
+Rotten_Vegetables/Potato/rottenPotato (101).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (101),train
+Fresh Vegetables/Bittermelon/aug_381_IMG_20260114_010513.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260114_010513,train
+Fresh Vegetables/Chile/IMG_20220604_094514_1.jpg,chilli,vegetable,fresh,ripe,own,,chile/img_20220604_094514_1,train
+Fresh Vegetables/Cucumber/freshCucumber (387).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (387),train
+Fresh Vegetables/Cucumber/freshCucumber (432).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (432),train
+Fresh Vegetables/Bell Pepper/freshPepper (548).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (548),train
+Rotten_Fruits/Strawberry/rottenStrawberry (9).jpeg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (9),train
+Rotten_Fruits/Banana/IMG_20251110_093752321_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20251110_093752321_hdr_ae,train
+Rotten_Fruits/Banana/IMG_20260124_113119102_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20260124_113119102_hdr_ae,train
+Fresh Vegetables/Eggplant/IMG_20251118_164814342_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251118_164814342_hdr,train
+Semi_Fresh_Vegetables/ Bittermelon/IMG_20260123_013939.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260123_013939,train
+Fresh Fruits/Strawberry/freshStrawberry (375).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (375),train
+Semi_Fresh_Fruits/banana/aug_321_IMG_20251122_112538891_HDR_AE.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251122_112538891_hdr_ae,train
+Fresh Vegetables/Eggplant/IMG_20251107_114440702_HDR_AE.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251107_114440702_hdr_ae,train
+Fresh Vegetables/Cucumber/freshCucumber (482).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (482),train
+Rotten_Fruits/Banana/aug_180_IMG_20260124_113250718_HDR_AE.jpg,banana,fruit,rotten,,own,,banana/img_20260124_113250718_hdr_ae,train
+Fresh Fruits/Apple/freshApple (633).png,apple,fruit,fresh,,own,,apple/freshapple (633),train
+Fresh Vegetables/Bell Pepper/IMG_20220602_085038 2.jpg,bell_pepper,vegetable,,ripe,own,freshness conflict: fresh|rotten,bell pepper/img_20220602_085038 2,val
+Rotten_Vegetables/Bittermelon/IMG_20260125_005741.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20260125_005741,val
+Fresh Fruits/Apple/freshApple (590).png,apple,fruit,fresh,,own,,apple/freshapple (590),val
+Fresh Fruits/Pineapple/IMG-20251130-WA0028.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251130-wa0028,val
+Fresh Fruits/Banana/freshBanana (297).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (297),val
+Fresh Vegetables/Bittermelon/aug_203_IMG_20260114_010613.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260114_010613,val
+Fresh Fruits/Banana/freshBanana (138).png,banana,fruit,fresh,ripe,own,,banana/freshbanana (138),val
+Rotten_Vegetables/Bell Pepper/rottenPepper (551).jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/rottenpepper (551),val
+Fresh Vegetables/Papaya/aug_311_IMG_20260114_004356.jpg,papaya,vegetable,fresh,,own,,papaya/img_20260114_004356,val
+Rotten_Fruits/Strawberry/rottenStrawberry (185).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (185),val
+Rotten_Fruits/Banana/aug_90_IMG_20251125_210351004_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251125_210351004_hdr,val
+Rotten_Fruits/Mango/rottenMango (52).jpg,mango,fruit,rotten,,own,,mango/rottenmango (52),val
+Fresh Vegetables/Tomato/IMG_20251107_114235812_HDR_AE.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251107_114235812_hdr_ae,val
+Fresh Vegetables/Chile/IMG_20220601_094542.jpg,chilli,vegetable,fresh,ripe,own,,chile/img_20220601_094542,val
+overmature_Vegetable/Tomato/IMG_20220604_092552.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220604_092552,val
+Semi_Fresh_Fruits/ Pineapple/aug_233_IMG_20251123_223238994_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251123_223238994_hdr,val
+Rotten_Vegetables/Chile/IMG_20220916_080457.jpg,chilli,vegetable,rotten,,own,,chile/img_20220916_080457,val
+overmature_Vegetable/Tomato/IMG_20220601_094923.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094923,val
+Fresh Vegetables/Carrot/freshCarrot (128).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (128),val
+Fresh Vegetables/Tomato/IMG_20220521_181111_1.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220521_181111_1,val
+Fresh Fruits/Orange/aug_267_IMG-20251121-WA0026.jpg,orange,fruit,fresh,,own,,orange/img-20251121-wa0026,val
+Fresh Fruits/Strawberry/freshStrawberry (542).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (542),val
+Fresh Vegetables/Potato/freshPotato (496).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (496),val
+Semi_Fresh_Vegetables/Tomato/aug_102_IMG_20251125_211201258_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251125_211201258_hdr,val
+overmature_Vegetable/Bell Pepper/IMG_20220609_091413.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220609_091413,val
+Fresh Vegetables/Carrot/freshCarrot (25).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (25),val
+Semi_Fresh_Vegetables/ Bittermelon/aug_301_IMG_20251123_013414.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20251123_013414,val
+Fresh Vegetables/Eggplant/aug_120_IMG_20251127_192956708_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251127_192956708_hdr,val
+Fresh Fruits/Mango/freshMango (271).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (271),val
+Rotten_Fruits/Banana/IMG_20251127_190751614_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251127_190751614_hdr,val
+overmature_Vegetable/Tomato/IMG_20220603_093828.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220603_093828,val
+Semi_Fresh_Vegetables/Tomato/IMG_20260122_220739172_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20260122_220739172_hdr,val
+Rotten_Vegetables/Potato/rottenPotato (379).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (379),val
+Rotten_Fruits/Orange/aug_159_IMG-20251207-WA0005.jpg,orange,fruit,rotten,,own,,orange/img-20251207-wa0005,val
+Semi_Fresh_Fruits/ Pineapple/aug_274_IMG_20251119_202500257_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251119_202500257_hdr,val
+Rotten_Fruits/Orange/aug_363_IMG-20251114-WA0015.jpg,orange,fruit,rotten,,own,,orange/img-20251114-wa0015,val
+Fresh Vegetables/Bell Pepper/freshPepper (348).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (348),val
+Semi_Fresh_Vegetables/Cucumber/IMG_20260212_155642.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260212_155642,val
+Unripened_Fruits/Mango/Raw_Mango_0_1737.jpg,mango,fruit,,unripe,own,,mango/raw_mango_0_1737,val
+Rotten_Fruits/Apple/rottenApple (82).jpg,apple,fruit,rotten,,own,,apple/rottenapple (82),val
+Unripened_Fruits/Mango/Raw_Mango.a28fbf1b-ebe7-11ed-848e-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.a28fbf1b-ebe7-11ed-848e-346f24e2fa38,val
+Rotten_Vegetables/Potato/rottenPotato (457).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (457),val
+Rotten_Fruits/Banana/rottenBanana (316).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (316),val
+Rotten_Vegetables/Carrot/rottenCarrot (199).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (199),val
+overmature_Vegetable/Tomato/IMG_20220601_094645_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094645_1,val
+Rotten_Vegetables/Cucumber/rottenCucumber (231).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (231),val
+Unripened_Fruits/Banana/Raw_Banana.14ede1eb-7dd9-11ed-a7cf-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.14ede1eb-7dd9-11ed-a7cf-ca27fdb58ae8,val
+Semi_Fresh_Vegetables/Eggplant/aug_153_IMG_20251201_190603410_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251201_190603410_hdr,val
+Fresh Vegetables/Cucumber/aug_323_IMG_20260204_152035.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260204_152035,val
+Fresh Vegetables/Bittermelon/IMG_20251121_081601.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20251121_081601,val
+Rotten_Fruits/Apple/rottenApple (311).jpg,apple,fruit,rotten,,own,,apple/rottenapple (311),val
+Rotten_Vegetables/Eggplant/IMG_20251109_112440604_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251109_112440604_hdr_ae,val
+Fresh Fruits/Banana/freshBanana (327).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (327),val
+Rotten_Vegetables/Tomato/rottenTomato (476).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (476),val
+Semi_Fresh_Vegetables/Papaya/aug_51_IMG_20251124_022608.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251124_022608,val
+Rotten_Vegetables/Tomato/rottenTomato (318).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (318),val
+Semi_Fresh_Fruits/Orange/IMG_20251123_221408581_HDR.jpg,orange,fruit,semi_fresh,,own,,orange/img_20251123_221408581_hdr,val
+Fresh Vegetables/Cucumber/IMG_20251025_121739.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20251025_121739,val
+overmature_Vegetable/Tomato/IMG_20220528_092117_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220528_092117_1,val
+Rotten_Vegetables/Bell Pepper/rottenPepper (89).jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/rottenpepper (89),val
+overmature_Vegetable/Tomato/IMG_20220527_090451_1.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220527_090451_1,val
+Fresh Vegetables/Cucumber/freshCucumber (52).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (52),val
+Fresh Fruits/Mango/freshMango (5).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (5),val
+Unripened_Fruits/Banana/Raw_Banana_0_369.jpg,banana,fruit,,unripe,own,,banana/raw_banana_0_369,val
+Semi_Fresh_Fruits/banana/IMG_20251124_190905837_HDR.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251124_190905837_hdr,val
+Rotten_Vegetables/Cucumber/rottenCucumber (455).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (455),val
+Rotten_Fruits/Pineapple/IMG-20251227-WA0032.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20251227-wa0032,val
+Fresh Fruits/Orange/aug_55_Fresh Malta (9).jpeg,orange,fruit,fresh,,own,,orange/fresh malta (9),val
+Fresh Vegetables/Eggplant/aug_263_IMG_20251127_192835022_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251127_192835022_hdr,val
+Rotten_Fruits/Strawberry/rottenStrawberry (389).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (389),val
+Rotten_Vegetables/Cucumber/aug_453_IMG_20251121_080655.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251121_080655,val
+Rotten_Vegetables/Papaya/IMG_20260202_032724.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260202_032724,val
+Rotten_Fruits/Orange/IMG-20251113-WA0022.jpg,orange,fruit,rotten,,own,,orange/img-20251113-wa0022,val
+Fresh Fruits/Orange/freshOrange (116).png,orange,fruit,fresh,,own,,orange/freshorange (116),val
+Semi_Fresh_Fruits/banana/aug_313_IMG_20251123_105654611_HDR_AE.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251123_105654611_hdr_ae,val
+Fresh Fruits/Orange/freshOrange (142).png,orange,fruit,fresh,,own,,orange/freshorange (142),val
+Semi_Fresh_Vegetables/ Bittermelon/aug_82_IMG_20251103_090540.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20251103_090540,val
+Fresh Vegetables/Chile/IMG_20220530_085819.jpg,chilli,vegetable,fresh,,own,ripeness conflict: ripe|unripe,chile/img_20220530_085819,val
+Rotten_Vegetables/Bittermelon/aug_146_IMG_20260125_005635.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20260125_005635,val
+Rotten_Vegetables/Cucumber/aug_230_IMG_20251123_012442.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20251123_012442,val
+Fresh Vegetables/Potato/freshPotato (278).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (278),val
+Rotten_Vegetables/Tomato/rottenTomato (403).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (403),val
+Rotten_Fruits/Orange/aug_410_IMG-20251207-WA0005.jpg,orange,fruit,rotten,,own,,orange/img-20251207-wa0005,val
+Semi_Fresh_Vegetables/Papaya/aug_154_IMG_20251124_022538.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251124_022538,test
+Fresh Fruits/Banana/freshBanana (115).jpg,banana,fruit,fresh,ripe,own,,banana/freshbanana (115),test
+Semi_Fresh_Vegetables/ Bittermelon/aug_408_IMG_20260120_004758.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260120_004758,test
+overmature_Vegetable/Bell Pepper/IMG_20220602_084930.jpg,bell_pepper,vegetable,,,own,freshness conflict: fresh|rotten; ripeness conflict: overripe|ripe,bell pepper/img_20220602_084930,test
+Unripened_Fruits/Mango/Raw_Mango.92a17a84-ebda-11ed-8722-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.92a17a84-ebda-11ed-8722-346f24e2fa38,test
+Rotten_Fruits/Mango/rottenMango (529).jpg,mango,fruit,rotten,,own,,mango/rottenmango (529),test
+Fresh Vegetables/Potato/freshPotato (578).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (578),test
+overmature_Vegetable/Bell Pepper/IMG_20220606_095306.jpg,bell_pepper,vegetable,,overripe,own,,bell pepper/img_20220606_095306,test
+Rotten_Vegetables/Eggplant/aug_234_IMG_20251121_145921857_HDR_AE.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251121_145921857_hdr_ae,test
+Rotten_Fruits/Orange/rottenOrange (252).jpg,orange,fruit,rotten,,own,,orange/rottenorange (252),test
+Fresh Fruits/Orange/aug_182_IMG_20251109_112157251_HDR_AE.jpg,orange,fruit,fresh,,own,,orange/img_20251109_112157251_hdr_ae,test
+Rotten_Vegetables/Bell Pepper/rottenPepper (382).jpg,bell_pepper,vegetable,rotten,,own,,bell pepper/rottenpepper (382),test
+Fresh Fruits/Mango/freshMango (149).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (149),test
+Fresh Vegetables/Bittermelon/aug_31_IMG_20260116_025959.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260116_025959,test
+Rotten_Vegetables/Eggplant/IMG_20251114_214444690_HDR.jpg,eggplant,vegetable,rotten,,own,,eggplant/img_20251114_214444690_hdr,test
+Fresh Vegetables/Bell Pepper/freshPepper (41).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (41),test
+Fresh Fruits/Apple/freshApple (744).png,apple,fruit,fresh,,own,,apple/freshapple (744),test
+Fresh Fruits/Orange/aug_4_IMG-20251117-WA0018.jpg,orange,fruit,fresh,,own,,orange/img-20251117-wa0018,test
+Fresh Fruits/Mango/freshMango (3).jpg,mango,fruit,fresh,ripe,own,,mango/freshmango (3),test
+Fresh Fruits/Pineapple/IMG-20251127-WA0029.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251127-wa0029,test
+Unripened_Fruits/Banana/Raw_Banana.f8f121f8-79f1-11ed-9d71-c0b87d5d3464.jpg,banana,fruit,,unripe,own,,banana/raw_banana.f8f121f8-79f1-11ed-9d71-c0b87d5d3464,test
+Fresh Vegetables/Chile/IMG_20220530_085620.jpg,chilli,vegetable,fresh,,own,ripeness conflict: ripe|unripe,chile/img_20220530_085620,test
+Fresh Vegetables/Chile/IMG_20220603_084328.jpg,chilli,vegetable,fresh,ripe,own,,chile/img_20220603_084328,test
+overmature_Vegetable/Tomato/IMG_20220603_093849.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220603_093849,test
+Fresh Fruits/Orange/aug_204_IMG-20251121-WA0019.jpg,orange,fruit,fresh,,own,,orange/img-20251121-wa0019,test
+Fresh Fruits/Orange/IMG-20251121-WA0015.jpg,orange,fruit,fresh,,own,,orange/img-20251121-wa0015,test
+Fresh Vegetables/Cucumber/freshCucumber (25).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (25),test
+Rotten_Fruits/Banana/rottenBanana (535).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (535),test
+Fresh Fruits/Pineapple/aug_298_IMG-20251130-WA0027.jpg,pineapple,fruit,fresh,,own,,pineapple/img-20251130-wa0027,test
+Rotten_Fruits/Strawberry/rottenStrawberry (238).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (238),test
+Fresh Vegetables/Carrot/freshCarrot (220).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (220),test
+Semi_Fresh_Fruits/ Pineapple/aug_324_IMG-20251207-WA0037.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img-20251207-wa0037,test
+Rotten_Fruits/Pineapple/IMG-20260130-WA0122.jpg,pineapple,fruit,rotten,,own,,pineapple/img-20260130-wa0122,test
+Rotten_Vegetables/Cucumber/rottenCucumber (357).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (357),test
+Fresh Vegetables/Tomato/IMG_20220519_095032.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220519_095032,test
+Rotten_Fruits/Mango/rottenMango (538).jpg,mango,fruit,rotten,,own,,mango/rottenmango (538),test
+Rotten_Vegetables/Tomato/rottenTomato (88).jpg,tomato,vegetable,rotten,,own,,tomato/rottentomato (88),test
+Rotten_Vegetables/Tomato/aug_4_IMG-20260219-WA0005.jpg,tomato,vegetable,rotten,,own,,tomato/img-20260219-wa0005,test
+Fresh Vegetables/Eggplant/IMG_20251118_164915372_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251118_164915372_hdr,test
+Rotten_Vegetables/Potato/rottenPotato (65).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (65),test
+Fresh Vegetables/Tomato/IMG_20251118_165840681_HDR.jpg,tomato,vegetable,fresh,,own,,tomato/img_20251118_165840681_hdr,test
+Fresh Vegetables/Carrot/freshCarrot (452).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (452),test
+Rotten_Vegetables/Cucumber/aug_192_IMG_20260202_032701.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20260202_032701,test
+Semi_Fresh_Fruits/Orange/IMG-20251130-WA0031.jpg,orange,fruit,semi_fresh,,own,,orange/img-20251130-wa0031,test
+Rotten_Vegetables/Carrot/rottenCarrot (367).jpg,carrot,vegetable,rotten,,own,,carrot/rottencarrot (367),test
+overmature_Vegetable/Tomato/IMG_20220603_093637.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220603_093637,test
+Rotten_Vegetables/Tomato/aug_37_IMG_20251119_200909058_HDR.jpg,tomato,vegetable,rotten,,own,,tomato/img_20251119_200909058_hdr,test
+Fresh Vegetables/Bell Pepper/freshPepper (452).jpg,bell_pepper,vegetable,fresh,ripe,own,,bell pepper/freshpepper (452),test
+Rotten_Vegetables/Potato/rottenPotato (538).jpg,potato,vegetable,rotten,,own,,potato/rottenpotato (538),test
+Unripened_Fruits/Banana/Raw_Banana.40e32034-ebe5-11ed-9e01-346f24e2fa38.jpg,banana,fruit,,unripe,own,,banana/raw_banana.40e32034-ebe5-11ed-9e01-346f24e2fa38,test
+Fresh Fruits/Strawberry/freshStrawberry (117).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (117),test
+Rotten_Fruits/Orange/rottenOrange (364).jpg,orange,fruit,rotten,,own,,orange/rottenorange (364),test
+Semi_Fresh_Vegetables/Eggplant/aug_126_IMG_20251130_182408901_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251130_182408901_hdr,test
+Rotten_Vegetables/Cucumber/rottenCucumber (586).jpg,cucumber,vegetable,rotten,,own,,cucumber/rottencucumber (586),test
+Semi_Fresh_Fruits/ Pineapple/aug_164_IMG_20251124_193110219_HDR.jpg,pineapple,fruit,semi_fresh,,own,,pineapple/img_20251124_193110219_hdr,test
+Fresh Vegetables/Eggplant/aug_299_IMG_20251119_195456216_HDR.jpg,eggplant,vegetable,fresh,,own,,eggplant/img_20251119_195456216_hdr,test
+Rotten_Fruits/Orange/aug_379_IMG-20251230-WA0035.jpg,orange,fruit,rotten,,own,,orange/img-20251230-wa0035,test
+Semi_Fresh_Vegetables/Tomato/aug_257_IMG_20251112_113508438_HDR_AE.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251112_113508438_hdr_ae,test
+overmature_Vegetable/Tomato/IMG_20220530_084129.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220530_084129,test
+Fresh Vegetables/Cucumber/aug_67_IMG_20260204_152133.jpg,cucumber,vegetable,fresh,,own,,cucumber/img_20260204_152133,test
+Fresh Vegetables/Bell Pepper/IMG_20220601_094050_1.jpg,bell_pepper,vegetable,,ripe,own,freshness conflict: fresh|rotten,bell pepper/img_20220601_094050_1,test
+Fresh Fruits/Banana/freshBanana (61).png,banana,fruit,fresh,ripe,own,,banana/freshbanana (61),test
+Rotten_Vegetables/Bittermelon/IMG_20260122_003432.jpg,bitter_melon,vegetable,rotten,,own,,bittermelon/img_20260122_003432,test
+Fresh Vegetables/Carrot/freshCarrot (45).jpg,carrot,vegetable,fresh,,own,,carrot/freshcarrot (45),test
+overmature_Vegetable/Tomato/IMG_20220612_151209.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220612_151209,test
+Fresh Fruits/Banana/freshBanana (89).png,banana,fruit,fresh,ripe,own,,banana/freshbanana (89),test
+overmature_Vegetable/Tomato/IMG_20220524_081410.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220524_081410,test
+Fresh Vegetables/Papaya/aug_238_IMG_20251123_012818.jpg,papaya,vegetable,fresh,,own,,papaya/img_20251123_012818,test
+Rotten_Fruits/Banana/aug_47_IMG_20251201_132755694_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251201_132755694_hdr,test
+Semi_Fresh_Fruits/banana/aug_297_IMG_20251124_190944956_HDR.jpg,banana,fruit,semi_fresh,,own,,banana/img_20251124_190944956_hdr,test
+Fresh Vegetables/Potato/freshPotato (61).jpg,potato,vegetable,fresh,,own,,potato/freshpotato (61),test
+Semi_Fresh_Vegetables/Cucumber/IMG_20260125_005549.jpg,cucumber,vegetable,semi_fresh,,own,,cucumber/img_20260125_005549,test
+Semi_Fresh_Vegetables/ Bittermelon/aug_267_IMG_20260120_004758.jpg,bitter_melon,vegetable,semi_fresh,,own,,bittermelon/img_20260120_004758,test
+overmature_Vegetable/Tomato/IMG_20220601_094756.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094756,test
+Rotten_Fruits/Strawberry/rottenStrawberry (249).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (249),test
+Rotten_Vegetables/Papaya/IMG_20260123_013626.jpg,papaya,vegetable,rotten,,own,,papaya/img_20260123_013626,test
+Fresh Vegetables/Bittermelon/IMG_20260120_004831.jpg,bitter_melon,vegetable,fresh,,own,,bittermelon/img_20260120_004831,test
+Unripened_Fruits/Banana/Raw_Banana.c778f784-7dd8-11ed-9b21-ca27fdb58ae8.jpg,banana,fruit,,unripe,own,,banana/raw_banana.c778f784-7dd8-11ed-9b21-ca27fdb58ae8,test
+Rotten_Fruits/Apple/rottenApple (559).jpg,apple,fruit,rotten,,own,,apple/rottenapple (559),test
+Rotten_Fruits/Banana/rottenBanana (89).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (89),test
+Semi_Fresh_Vegetables/Papaya/aug_227_IMG_20251124_022525.jpg,papaya,vegetable,semi_fresh,,own,,papaya/img_20251124_022525,test
+overmature_Vegetable/Tomato/IMG_20220601_094908.jpg,tomato,vegetable,,overripe,own,,tomato/img_20220601_094908,test
+Fresh Fruits/Orange/aug_302_IMG_20251105_102228871_HDR_AE.jpg,orange,fruit,fresh,,own,,orange/img_20251105_102228871_hdr_ae,test
+Unripened_Fruits/Mango/Raw_Mango.0edd5df5-ebe8-11ed-b5e6-346f24e2fa38.jpg,mango,fruit,,unripe,own,,mango/raw_mango.0edd5df5-ebe8-11ed-b5e6-346f24e2fa38,test
+Fresh Vegetables/Tomato/IMG_20220519_095128.jpg,tomato,vegetable,fresh,ripe,own,,tomato/img_20220519_095128,test
+Rotten_Fruits/Orange/aug_458_IMG-20260128-WA0012.jpg,orange,fruit,rotten,,own,,orange/img-20260128-wa0012,test
+Fresh Vegetables/Cucumber/freshCucumber (420).jpg,cucumber,vegetable,fresh,,own,,cucumber/freshcucumber (420),test
+Fresh Fruits/Strawberry/freshStrawberry (55).jpg,strawberry,fruit,fresh,,own,,strawberry/freshstrawberry (55),test
+Rotten_Fruits/Banana/rottenBanana (504).jpg,banana,fruit,rotten,,own,,banana/rottenbanana (504),test
+Rotten_Fruits/Banana/IMG_20251130_175612619_HDR.jpg,banana,fruit,rotten,,own,,banana/img_20251130_175612619_hdr,test
+Fresh Fruits/Banana/aug_234_IMG_20251120_203634670_HDR.jpg,banana,fruit,fresh,ripe,own,,banana/img_20251120_203634670_hdr,test
+Unripened_Fruits/Banana/Raw_Banana.a5c7f37c-7612-11ed-9813-d0ec6da7db5b.jpg,banana,fruit,,unripe,own,,banana/raw_banana.a5c7f37c-7612-11ed-9813-d0ec6da7db5b,test
+Rotten_Vegetables/Chile/IMG_20220916_080446.jpg,chilli,vegetable,rotten,,own,,chile/img_20220916_080446,test
+Semi_Fresh_Vegetables/Eggplant/aug_325_IMG_20251125_212251648_HDR.jpg,eggplant,vegetable,semi_fresh,,own,,eggplant/img_20251125_212251648_hdr,test
+Fresh Fruits/Orange/freshOrange (213).png,orange,fruit,fresh,,own,,orange/freshorange (213),test
+Rotten_Vegetables/Tomato/aug_293_IMG_20260128_095404997_HDR_AE.jpg,tomato,vegetable,rotten,,own,,tomato/img_20260128_095404997_hdr_ae,test
+Rotten_Fruits/Apple/rottenApple (204).jpg,apple,fruit,rotten,,own,,apple/rottenapple (204),test
+Rotten_Fruits/Strawberry/rottenStrawberry (220).jpg,strawberry,fruit,rotten,,own,,strawberry/rottenstrawberry (220),test
+Unripened_Vegetables/Tomato/IMG_20220506_093230.jpg,tomato,vegetable,,unripe,own,,tomato/img_20220506_093230,test
+Semi_Fresh_Vegetables/Tomato/aug_76_IMG_20251127_193204587_HDR.jpg,tomato,vegetable,semi_fresh,,own,,tomato/img_20251127_193204587_hdr,test
+Rotten_Vegetables/Cucumber/aug_25_IMG_20260202_032554.jpg,cucumber,vegetable,rotten,,own,,cucumber/img_20260202_032554,test

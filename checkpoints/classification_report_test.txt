@@ -1,0 +1,44 @@
+=== item ===
+              precision    recall  f1-score   support
+
+       apple       0.98      0.96      0.97       199
+      banana       1.00      1.00      1.00       660
+ bell_pepper       0.98      0.97      0.98       400
+bitter_melon       1.00      1.00      1.00       295
+      carrot       0.96      0.98      0.97       186
+      chilli       0.99      1.00      1.00       177
+    cucumber       0.99      0.99      0.99       489
+    eggplant       1.00      1.00      1.00       295
+       mango       0.97      0.99      0.98       364
+      orange       1.00      0.99      0.99       492
+      papaya       1.00      1.00      1.00       293
+   pineapple       1.00      1.00      1.00       294
+      potato       0.96      0.95      0.96       196
+  strawberry       1.00      1.00      1.00       199
+      tomato       1.00      0.99      1.00       778
+
+    accuracy                           0.99      5317
+   macro avg       0.99      0.99      0.99      5317
+weighted avg       0.99      0.99      0.99      5317
+
+=== fresh ===
+              precision    recall  f1-score   support
+
+       fresh       0.98      0.97      0.97      1942
+  semi_fresh       0.92      0.96      0.94       781
+      rotten       0.98      0.97      0.98      1816
+
+    accuracy                           0.97      4539
+   macro avg       0.96      0.97      0.96      4539
+weighted avg       0.97      0.97      0.97      4539
+
+=== ripe ===
+              precision    recall  f1-score   support
+
+      unripe       1.00      1.00      1.00       393
+        ripe       1.00      1.00      1.00       644
+    overripe       1.00      1.00      1.00       323
+
+    accuracy                           1.00      1360
+   macro avg       1.00      1.00      1.00      1360
+weighted avg       1.00      1.00      1.00      1360

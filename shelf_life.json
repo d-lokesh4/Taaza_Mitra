@@ -1,0 +1,22 @@
+{
+  "_readme": "Typical shelf life in DAYS for a fresh, whole, uncut item: [min, max] per storage condition. These are approximate general-guidance values - verify/replace them with figures from sources you cite (e.g. USDA FoodKeeper, FAO/ICAR/NIN handbooks) before reporting.",
+  "stage_fractions": {"fresh": 1.0, "semi_fresh": 0.3, "rotten": 0.0},
+  "overripe_factor": 0.4,
+  "items": {
+    "apple":        {"room": [5, 7],   "fridge": [28, 42]},
+    "banana":       {"room": [3, 7],   "fridge": [5, 7]},
+    "mango":        {"room": [3, 7],   "fridge": [5, 8]},
+    "orange":       {"room": [7, 14],  "fridge": [21, 28]},
+    "strawberry":   {"room": [1, 2],   "fridge": [5, 7]},
+    "pineapple":    {"room": [2, 4],   "fridge": [5, 7]},
+    "bell_pepper":  {"room": [3, 5],   "fridge": [7, 14]},
+    "carrot":       {"room": [3, 7],   "fridge": [21, 28]},
+    "cucumber":     {"room": [2, 4],   "fridge": [7, 10]},
+    "potato":       {"room": [21, 35], "fridge": [14, 28]},
+    "tomato":       {"room": [3, 7],   "fridge": [7, 10]},
+    "eggplant":     {"room": [2, 4],   "fridge": [5, 7]},
+    "bitter_melon": {"room": [2, 3],   "fridge": [5, 7]},
+    "papaya":       {"room": [2, 4],   "fridge": [5, 7]},
+    "chilli":       {"room": [3, 5],   "fridge": [7, 14]}
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "items": [
+    "apple",
+    "banana",
+    "bell_pepper",
+    "bitter_melon",
+    "carrot",
+    "chilli",
+    "cucumber",
+    "eggplant",
+    "mango",
+    "orange",
+    "papaya",
+    "pineapple",
+    "potato",
+    "strawberry",
+    "tomato"
+  ],
+  "item_group": {
+    "eggplant": "vegetable",
+    "pineapple": "fruit",
+    "bitter_melon": "vegetable",
+    "chilli": "vegetable",
+    "bell_pepper": "vegetable",
+    "papaya": "vegetable",
+    "orange": "fruit",
+    "potato": "vegetable",
+    "carrot": "vegetable",
+    "tomato": "vegetable",
+    "banana": "fruit",
+    "cucumber": "vegetable",
+    "apple": "fruit",
+    "strawberry": "fruit",
+    "mango": "fruit"
+  },
+  "availability": {
+    "apple": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "banana": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "unripe",
+        "ripe"
+      ]
+    },
+    "bell_pepper": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "bitter_melon": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "carrot": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "chilli": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "cucumber": {
+      "freshness": [
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "eggplant": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "mango": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "orange": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": []
+    },
+    "papaya": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "pineapple": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "potato": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "strawberry": {
+      "freshness": [],
+      "ripeness": []
+    },
+    "tomato": {
+      "freshness": [
+        "fresh",
+        "rotten"
+      ],
+      "ripeness": [
+        "overripe"
+      ]
+    }
+  },
+  "backbone": "mobilenet_v3_large",
+  "days_trained": false,
+  "fresh_classes": [
+    "fresh",
+    "semi_fresh",
+    "rotten"
+  ],
+  "ripe_classes": [
+    "unripe",
+    "ripe",
+    "overripe"
+  ]
+}

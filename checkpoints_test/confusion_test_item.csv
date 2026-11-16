@@ -1,0 +1,16 @@
+,apple,banana,bell_pepper,bitter_melon,carrot,chilli,cucumber,eggplant,mango,orange,papaya,pineapple,potato,strawberry,tomato
+apple,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+banana,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+bell_pepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+bitter_melon,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0
+carrot,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+chilli,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+cucumber,0,1,0,0,0,0,6,0,0,0,0,0,0,0,1
+eggplant,0,0,1,0,0,0,0,4,0,1,0,0,0,0,0
+mango,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4
+orange,0,0,0,0,0,0,0,0,0,5,0,0,0,0,6
+papaya,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3
+pineapple,0,0,1,1,0,0,0,1,0,0,0,2,0,0,0
+potato,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+strawberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+tomato,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
